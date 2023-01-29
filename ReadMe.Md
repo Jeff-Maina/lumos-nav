@@ -1,4 +1,4 @@
 # Lumos-nav
-A simple minimalistic navbar
+A simple minimalistic navbar.
 
-<i>not responsive</i>
+<i>not responsive.</i>
